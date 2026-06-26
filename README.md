@@ -1,4 +1,4 @@
-# 🏦 CanaraSakhi
+# CanaraSakhi
 ### Offline Agentic Regulatory Compliance System for Canara Bank
 
 > Built for **SuRaksha Hackathon** by Canara Bank  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 What it does
+##  What it does
 
 CanaraSakhi is a fully offline AI system that helps bank employees stay on top of RBI/SEBI compliance obligations.
 
@@ -16,7 +16,7 @@ No more manually reading dense regulatory documents. No more missed deadlines.
 
 ---
 
-## 🔒 Privacy First
+##  Privacy First
 
 | Feature | Detail |
 |---|---|
@@ -28,7 +28,7 @@ No more manually reading dense regulatory documents. No more missed deadlines.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Automatic MAP extraction** — AI reads circular and creates Measurable Action Points
 - **Department routing** — tasks auto-assigned to IT, Credit, Legal, HR, Treasury, Operations
@@ -40,7 +40,7 @@ No more manually reading dense regulatory documents. No more missed deadlines.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -52,7 +52,7 @@ No more manually reading dense regulatory documents. No more missed deadlines.
 
 ---
 
-## 🚀 Setup & Run
+##  Setup & Run
 
 ### Prerequisites
 - Python 3.11+
@@ -105,7 +105,7 @@ canarasakhi/
 
 ---
 
-## 🎬 Demo Flow
+##  Demo Flow
 
 1. Open dashboard — clean empty state
 2. **Turn WiFi OFF** — proves fully offline
@@ -117,7 +117,7 @@ canarasakhi/
 
 ---
 
-## 👥 Team
+## Team
 
 - Anjali
 - Bhawana Gupta  
