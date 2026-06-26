@@ -119,4 +119,6 @@ canarasakhi/
 
 ## 👥 Team
 
-Built with ❤️ for SuRaksha Hackathon 2026
+Anjali
+Bhawana Gupta 
+Bhavika
