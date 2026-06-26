@@ -119,8 +119,6 @@ canarasakhi/
 
 ## 👥 Team
 
-```
-Anjali
-Bhawana Gupta 
-Bhavika
-```
+- Anjali
+- Bhawana Gupta  
+- Bhavika
